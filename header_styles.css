@@ -1,0 +1,44 @@
+@charset "utf-8";
+.header_rule {
+    display: block;
+    width: 100%;
+}
+.navbar {
+    width: 100%;
+    padding-top: 14px;
+    padding-right: 4px;
+    padding-left: 20px;
+    padding-bottom: 14px;
+    background-color: #C5DABC;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    display: block;
+
+}
+.wrapper {
+    margin-top: 49px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    padding-left: 14px;
+    padding-top: 14px;
+    padding-right: 14px;
+    padding-bottom: 14px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1 {
+    color: #5691E4;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h2 {
+    color: #00BECC;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+footer {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: small;
+    text-align: center;
+    color: #E1E1E1;
+    background-color: #0674B7;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
